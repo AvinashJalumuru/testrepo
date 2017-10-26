@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "$(date +%F_%r) This is a test File" > /etc/Cool.txt
+echo "$(date +%F_%r) This is a test File" > /tmp/Cool.txt
